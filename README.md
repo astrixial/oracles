@@ -1,3 +1,3 @@
 # oracles
 
-trivial contracts usin API oracles
+trivial contracts using API oracles
